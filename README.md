@@ -10,4 +10,4 @@ The proposed method is heavily dependent on GPDN https://github.com/yangxy/GPEN.
 
 It should be pointed out that the Outdoor clean images from REISDE contain haze, which may result in the trained model being unable to remove haze completely in real haze images. 
 
-We will upload a dataset, which is used to fine-tune the proposed model for real haze images.
+We will upload a dataset, which is used to fine-tune the proposed model for real haze images. The dataset can be found:https://drive.google.com/file/d/1aZEGgj-yTem1PLlzFKu2UvNZ5Kwl9Ft4/view?usp=drive_link.
