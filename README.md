@@ -4,7 +4,7 @@ The code can be downloaded from https://drive.google.com/file/d/18Oy0jqIiBl0cXqe
 
 This code is for FPGDN (Exploring Fuzzy Priors From Multi-Mapping GAN for Robust Image Dehazing). 
 
-You can find more details from 'https://ieeexplore.ieee.org/document/11192256'.
+You can find more details from 'https://ieeexplore.ieee.org/document/11192256'. I notice some mistakes, which are corrected in the clean PDF uploaded in this repository.
 
 The proposed method is heavily dependent on GPDN https://github.com/yangxy/GPEN.
 
